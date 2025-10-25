@@ -26,7 +26,7 @@ Data analysis and forecasting tasks completed as part of the J.P. Morgan Chase &
 ---
 
 ###  Code
-Check out the notebook: [Task_1_JPMorgan.ipynb](Task_1_JPMorgan.ipynb)
+Check out the notebook: [Task_1_JPMorgan.ipynb](gas_price_estimator.ipynb)
 
 ---
 
